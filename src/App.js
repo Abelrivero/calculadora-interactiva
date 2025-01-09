@@ -1,5 +1,4 @@
 import './App.css';
-import freeCodeCampLogo from './imagenes/logo.png';
 import Boton from './componentes/boton';
 import Pantalla from './componentes/pantalla';
 import BotonClear from './componentes/botonClear';
